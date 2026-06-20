@@ -1,0 +1,8 @@
+Table,Column,Null_Count,Null_Percentage,Total_Rows
+Providers,Contact,0,0.0,1000
+Providers,Address,0,0.0,1000
+Receivers,Contact,0,0.0,1000
+Food_Listings,Expiry_Date,0,0.0,1000
+Food_Listings,Quantity,0,0.0,1000
+Claims,Status,0,0.0,1000
+Claims,Timestamp,0,0.0,1000
